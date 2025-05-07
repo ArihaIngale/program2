@@ -16,6 +16,7 @@ public class Student {
         System.out.println("Age: " + age);
     }
     public static void main(String[] args){
-        Student s = new Student("shreya","02-12-2005");
+        Student s = new Student("shreya","2005-12-02");
         s.displayInfo();
+    }
 }
