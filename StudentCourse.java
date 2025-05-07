@@ -8,7 +8,7 @@ public class StudentCourse{
         }
     }
     public static void main(String[] args){
-        StudentCourse sc= new Studentcourse();
+        StudentCourse sc= new StudentCourse();
         sc.displayCourses();
     }
 }
